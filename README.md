@@ -12,10 +12,7 @@ contacts for communication.
 
 ## Tech stack
 
-<img width="100" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
-<img width="100" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
-<img width="100" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img width="100" src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg?short_path=e55891c"/>
+<img width="100" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/><img width="100" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/><img width="100" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/><img width="100" src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg?short_path=e55891c"/>
 
 ## How to launch a project
 
